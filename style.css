@@ -1,0 +1,72 @@
+* {
+  font-family: 'Rubik', sans-serif;
+}
+
+.jumbotron {
+  background-color: black;
+  padding: 20px 0;
+}
+
+.jumbotron a {
+  font-family: 'Luckiest Guy', cursive;
+  text-shadow: 2px 2px 2px grey;
+}
+
+.jumbotron a {
+  text-decoration: none;
+  color: white;
+  font-size: 2em;
+  cursor: default;
+}
+
+.content {
+  background-color: rgb(15, 15, 15);
+  padding: 100px 0;
+  height: 1200px;
+}
+
+.col-md-4 {
+  margin: 20px 0;
+}
+
+.card {
+  border: 2px solid #3d3d3d;
+}
+
+.about-content {
+  padding: 200px 0;
+  background-color: rgb(15, 15, 15);
+}
+
+.portfolio-content {
+  padding: 200px 0;
+  background-color: rgb(15, 15, 15);
+}
+
+.contact-content {
+  padding: 200px 0;
+  background-color: rgb(15, 15, 15);
+}
+
+.btn {
+  background: none;
+  color: white;
+  width: 70%;
+  height: 70px;
+  padding: 20px 0;
+}
+
+.btn-sm {
+  width: 30%;
+  padding: 10px;
+  background: none;
+  color: white;
+  border: 1px solid white;
+  text-decoration: none;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  padding: 20px 0;
+}
